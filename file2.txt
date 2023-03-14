@@ -1,7 +1,2 @@
-line
-line
-line
-line
-line
-line
-line
+line1
+line2
